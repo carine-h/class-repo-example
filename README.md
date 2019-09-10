@@ -1,1 +1,3 @@
 # class-repo-example
+
+hi! 
